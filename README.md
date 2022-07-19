@@ -6,7 +6,7 @@ My name is Mateus and I'm a Frontend developer and enthusiast of UI design. I wo
 
 Passionate about web and mobile development technologies, create good interfaces and learn about UI design in my spare time.
 
-:rocket: I’m currently working on EWZ Capital as Frontend developer;
+:rocket: I’m currently working on Mercado Livre as Software Developer;
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mateus-oliveira21/) 
